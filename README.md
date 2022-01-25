@@ -5,6 +5,6 @@
  Requires pyinstaller (pip install pyinstaller)  
  cmd: pyinstaller main.py --onefile
 
- # required package  
+ # required packages  
  pyinstaller  
  pywin32
