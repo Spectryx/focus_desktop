@@ -1,4 +1,3 @@
-import imp
 import win32gui
 import re
 import configparser
