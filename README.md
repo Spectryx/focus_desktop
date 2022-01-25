@@ -9,7 +9,7 @@
  pywin32
 
  # usage
- Edit config.ini and change window_name to whatever window you want to focus, is case sensitive
+ Download the files in the executable folder. Make sure config.ini and Focus_desktop.exe is in the samefolder, change window_name in config.ini to whatever window you want to bring into focus, is case sensitive
  
  # credits  
  Code from https://stackoverflow.com/questions/2090464/python-window-activation
