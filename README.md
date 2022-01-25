@@ -2,7 +2,7 @@
  Simple python script with pyinstaller to bring a windows application in foreground
  
  # Make executable  
- run pyinstaller main.py --onefile while in the same directory as main.py
+ run **pyinstaller main.py --onefile** while in the same directory as main.py
 
  # required packages  
  pyinstaller  
