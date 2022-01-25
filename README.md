@@ -10,4 +10,4 @@
  pywin32
 
  # usage
- Edit config.ini file and change window_name to whatever window you want to focus
+ Edit config.ini and change window_name to whatever window you want to focus
