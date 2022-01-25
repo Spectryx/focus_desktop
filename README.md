@@ -1,2 +1,6 @@
 # focus_desktop
- Simple python script with pyinstaller to focus a Window 
+ Simple python script with pyinstaller to bring a windows application in foreground
+ 
+ # Make executable
+ Requires pyinstaller (pip install pyinstaller)
+ cmd: pyinstaller main.py --onefile
