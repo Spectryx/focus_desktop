@@ -9,7 +9,7 @@
  pywin32
 
  # usage
- Edit config.ini and change window_name to whatever window you want to focus
+ Edit config.ini and change window_name to whatever window you want to focus, is case sensitive
  
  # credits  
  Code from https://stackoverflow.com/questions/2090464/python-window-activation
